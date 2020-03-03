@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BACKGROUND action bar-->
+    <color name="ColorPrimary">#ffffff</color>
+    <!-- color most upper bar (wifi and clock) -->
+    <color name="ColorPrimaryDark">#97C9CB</color>
+    <!-- color app title-->
+    <color name="ColorTitle">#387c7f</color>
+    <!-- color tab not active-->
+    <color name="tabNotActive">@color/ColorPrimaryDark</color>
+    <!-- color tab selected, opened-->
+    <color name="stateSelected">@color/ColorTitle</color>
+    <!-- nothing...-->
+    <color name="stateFocused">#cfd045</color>
+    <!-- color tab instant when pressed-->
+    <color name="statePressed">@color/ColorTitle</color>
+    <!-- color underline tab selected-->
+    <color name="underline">@color/ColorTitle</color>
+    <color name="white">#ffffff</color>
+</resources>
